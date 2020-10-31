@@ -1,0 +1,1073 @@
+wav_filename,wav_filesize,transcript
+deepspeech/train/1.wav,122958,قل هو الله أحد
+deepspeech/train/2.wav,106332,قل هو الله أحد
+deepspeech/train/3.wav,110002,قل هو الله أحد
+deepspeech/train/4.wav,131150,قل هو الله أحد
+deepspeech/train/5.wav,131150,قل هو الله أحد
+deepspeech/train/6.wav,99600,قل هو الله أحد
+deepspeech/train/7.wav,103360,قل هو الله أحد
+deepspeech/train/8.wav,131150,قل هو الله أحد
+deepspeech/train/9.wav,120450,قل هو الله أحد
+deepspeech/train/10.wav,120228,الله الصمد
+deepspeech/train/11.wav,95652,الله الصمد
+deepspeech/train/12.wav,131596,الله الصمد
+deepspeech/train/13.wav,72896,الله الصمد
+deepspeech/train/14.wav,95652,الله الصمد
+deepspeech/train/15.wav,95652,الله الصمد
+deepspeech/train/16.wav,117496,الله الصمد
+deepspeech/train/17.wav,160574,الله الصمد
+deepspeech/train/18.wav,75868,و لم يولد
+deepspeech/train/19.wav,107076,لم يلد و لم يولد
+deepspeech/train/20.wav,105848,لم يلد و لم يولد
+deepspeech/train/21.wav,82556,لم يلد و لم يولد
+deepspeech/train/22.wav,139342,لم يلد و لم يولد
+deepspeech/train/23.wav,24598,و لم يولد
+deepspeech/train/24.wav,24598,و لم يولد
+deepspeech/train/25.wav,131150,لم يلد و لم يولد
+deepspeech/train/26.wav,139342,لم يلد و لم يولد
+deepspeech/train/27.wav,116736,لم يلد و لم يولد
+deepspeech/train/28.wav,265344,و لم يكن له كفوا أحد
+deepspeech/train/29.wav,66208,يكن له كفوا أحد
+deepspeech/train/30.wav,139342,و لم يكن له كفوا أحد
+deepspeech/train/31.wav,139026,و لم يكن له كفوا أحد
+deepspeech/train/32.wav,144228,و لم يكن له كفوا أحد
+deepspeech/train/33.wav,64888,له كفوا
+deepspeech/train/34.wav,143484,و لم يكن له كفوا أحد
+deepspeech/train/35.wav,158456,و لم يكن له كفوا أحد
+deepspeech/train/36.wav,85528,قل هو الله أحد
+deepspeech/train/37.wav,69924,الله الصمد
+deepspeech/train/38.wav,89278,لم يلد و لم يولد
+deepspeech/train/39.wav,122422,و لم يكن له كفوا أحد
+deepspeech/train/40.wav,122958,قل هو الله أحد
+deepspeech/train/41.wav,101058,الله الصمد
+deepspeech/train/42.wav,120254,لم يلد و لم يولد
+deepspeech/train/43.wav,174820,و لم يكن له كفوا أحد
+deepspeech/train/44.wav,55670,قل هو الله أحد
+deepspeech/train/45.wav,53394,الله الصمد
+deepspeech/train/46.wav,61082,لم يلد و لم يولد
+deepspeech/train/47.wav,96036,و لم يكن له كفوا أحد
+deepspeech/train/48.wav,174656,قل هو الله أحد
+deepspeech/train/49.wav,170080,الله الصمد
+deepspeech/train/50.wav,188216,لم يلد و لم يولد
+deepspeech/train/51.wav,243390, لم يكن له كفوا أحد
+deepspeech/train/52.wav,66744,قل هو الله أحد
+deepspeech/train/53.wav,54834,الله الصمد
+deepspeech/train/54.wav,76568,لم يلد و لم يولد
+deepspeech/train/55.wav,103798,و لم يكن له كفوا أحد
+deepspeech/train/56.wav,83706,قل هو الله أحد
+deepspeech/train/57.wav,65310,الله الصمد
+deepspeech/train/58.wav,79538,لم يلد و لم يولد
+deepspeech/train/59.wav,120166,و لم يكن له كفوا أحد
+deepspeech/train/60.wav,110704,قل هو الله أحد
+deepspeech/train/61.wav,91176,الله الصمد
+deepspeech/train/62.wav,229642,لم يلد و لم يولد و لم يكن له كفوا أحد
+deepspeech/train/63.wav,102050,قل هو الله أحد
+deepspeech/train/64.wav,74480,الله الصمد
+deepspeech/train/65.wav,82766,لم يلد و لم يولد
+deepspeech/train/66.wav,111048,و لم يكن له كفوا أحد
+deepspeech/train/67.wav,70170,قل هو الله أحد
+deepspeech/train/68.wav,47322,الله الصمد
+deepspeech/train/69.wav,77974,لم يلد و لم يولد
+deepspeech/train/70.wav,111728,و لم يكن له كفوا أحد
+deepspeech/train/71.wav,78956,قل هو الله أحد
+deepspeech/train/72.wav,68826,الله الصمد
+deepspeech/train/73.wav,192270,لم يلد و لم يولد و لم يكن له كفوا أحد
+deepspeech/train/74.wav,80702,قل هو الله أحد
+deepspeech/train/75.wav,62874,الله الصمد
+deepspeech/train/76.wav,70236,لم يلد و لم يولد
+deepspeech/train/77.wav,130670,و لم يكن له كفوا أحد
+deepspeech/train/78.wav,80398,قل هو الله أحد
+deepspeech/train/79.wav,70550,الله الصمد
+deepspeech/train/80.wav,73442,لم يلد و لم يولد
+deepspeech/train/81.wav,112278,و لم يكن له كفوا أحد
+deepspeech/train/82.wav,70760,قل هو الله أحد
+deepspeech/train/83.wav,63236,الله الصمد
+deepspeech/train/84.wav,80330,لم يلد و لم يولد
+deepspeech/train/85.wav,105758,و لم يكن له كفوا أحد
+deepspeech/train/86.wav,81162,قل هو الله أحد
+deepspeech/train/87.wav,61750,الله الصمد
+deepspeech/train/88.wav,88376,لم يلد و لم يولد
+deepspeech/train/89.wav,124606,و لم يكن له كفوا أحد
+deepspeech/train/90.wav,65806,قل هو الله أحد
+deepspeech/train/91.wav,59840,الله الصمد
+deepspeech/train/92.wav,70688,لم يلد و لم يولد
+deepspeech/train/93.wav,113484,و لم يكن له كفوا أحد
+deepspeech/train/94.wav,83160,قل هو الله أحد
+deepspeech/train/95.wav,60400,الله الصمد
+deepspeech/train/96.wav,79884,لم يلد و لم يولد
+deepspeech/train/97.wav,121426,و لم يكن له كفوا أحد
+deepspeech/train/98.wav,75338,قل هو الله أحد
+deepspeech/train/99.wav,49146,الله الصمد
+deepspeech/train/100.wav,70728,لم يلد و لم يولد
+deepspeech/train/101.wav,93366,و لم يكن له كفوا أحد
+deepspeech/train/102.wav,74468,قل هو الله أحد
+deepspeech/train/103.wav,60504,الله الصمد
+deepspeech/train/104.wav,78136,لم يلد و لم يولد
+deepspeech/train/105.wav,117492,و لم يكن له كفوا أحد
+deepspeech/train/106.wav,101122,قل هو الله أحد
+deepspeech/train/107.wav,96158,الله الصمد
+deepspeech/train/108.wav,119020,لم يلد و لم يولد
+deepspeech/train/109.wav,157504,و لم يكن له كفوا أحد
+deepspeech/train/110.wav,127834,قل هو الله احد الله الصمد
+deepspeech/train/111.wav,171064,لم يلد و لم يولد و لم يكن له كفوا أحد
+deepspeech/train/112.wav,84922,قل هو الله أحد
+deepspeech/train/113.wav,50700,الله الصمد
+deepspeech/train/114.wav,29832,لم يلد
+deepspeech/train/115.wav,42372,و لم يولد
+deepspeech/train/116.wav,93944,و لم يكن له كفوا أحد
+deepspeech/train/117.wav,60360,قل هو الله أحد
+deepspeech/train/118.wav,49180,الله الصمد
+deepspeech/train/119.wav,61626,لم يلد و لم يولد
+deepspeech/train/120.wav,95800,و لم يكن له كفوا أحد
+deepspeech/train/121.wav,80280,قل هو الله أحد
+deepspeech/train/122.wav,64520,الله الصمد
+deepspeech/train/123.wav,87640,لم يلد و لم يولد
+deepspeech/train/124.wav,114038,و لم يكن له كفوا أحد
+deepspeech/train/125.wav,78794,قل هو الله أحد
+deepspeech/train/126.wav,60090,الله الصمد
+deepspeech/train/127.wav,78352,لم يلد و لم يولد
+deepspeech/train/128.wav,110144,و لم يكن له كفوا أحد
+deepspeech/train/129.wav,78022,قل هو الله أحد
+deepspeech/train/130.wav,246182,الله الصمد لم يلد و لم يولد و لم يكن له كفوا أحد
+deepspeech/train/131.wav,107608,قل هو الله أحد
+deepspeech/train/132.wav,88496,الله الصمد
+deepspeech/train/133.wav,123272,لم يلد و لم يولد
+deepspeech/train/134.wav,152388,و لم يكن له كفوا أحد
+deepspeech/train/135.wav,87962,قل هو الله أحد
+deepspeech/train/136.wav,67068,الله الصمد
+deepspeech/train/137.wav,91136,لم يلد و لم يولد
+deepspeech/train/138.wav,124676,و لم يكن له كفوا أحد
+deepspeech/train/139.wav,116314,قل هو الله أحد
+deepspeech/train/140.wav,110252,الله الصمد
+deepspeech/train/141.wav,143264,لم يلد و لم يولد
+deepspeech/train/142.wav,215044,و لم يكن له كفوا أحد
+deepspeech/train/143.wav,91882,قل هو الله أحد
+deepspeech/train/144.wav,63934,الله الصمد
+deepspeech/train/145.wav,100772,لم يلد و لم يولد
+deepspeech/train/146.wav,112942,و لم يكن له كفوا أحد
+deepspeech/train/147.wav,67680,قل هو الله أحد
+deepspeech/train/148.wav,50628,الله الصمد
+deepspeech/train/149.wav,157608,لم يلد و لم يولد و لم يكن له كفوا أحد
+deepspeech/train/150.wav,93538,قل هو الله أحد
+deepspeech/train/151.wav,57526,الله الصمد
+deepspeech/train/152.wav,81708,لم يلد و لم يولد
+deepspeech/train/153.wav,116912,و لم يكن له كفوا أحد
+deepspeech/train/154.wav,97648,قل هو الله أحد
+deepspeech/train/155.wav,69694,الله الصمد
+deepspeech/train/156.wav,84670,لم يلد و لم يولد
+deepspeech/train/157.wav,121878,و لم يكن له كفوا أحد
+deepspeech/train/158.wav,96382,قل هو الله أحد
+deepspeech/train/159.wav,82542,الله الصمد
+deepspeech/train/160.wav,104332,لم يلد و لم يولد
+deepspeech/train/161.wav,137436,و لم يكن له كفوا أحد
+deepspeech/train/162.wav,95560,قل هو الله أحد
+deepspeech/train/163.wav,100104,الله الصمد
+deepspeech/train/164.wav,110850,لم يلد و لم يولد
+deepspeech/train/165.wav,148990,و لم يكن له كفوا أحد
+deepspeech/train/166.wav,70322,قل هو الله أحد
+deepspeech/train/167.wav,57356,الله الصمد
+deepspeech/train/168.wav,74416,لم يلد و لم يولد
+deepspeech/train/169.wav,108186,و لم يكن له كفوا أحد
+deepspeech/train/170.wav,397550,قل هو الله احد الله الصمد لم يلد و لم يولد و لم يكن له كفوا أحد
+deepspeech/train/171.wav,64676,قل هو الله أحد
+deepspeech/train/172.wav,43742,الله الصمد
+deepspeech/train/173.wav,60186,لم يلد و لم يولد
+deepspeech/train/174.wav,92882,و لم يكن له كفوا أحد
+deepspeech/train/175.wav,61530,قل هو الله أحد
+deepspeech/train/176.wav,53364,الله الصمد
+deepspeech/train/177.wav,62592,لم يلد و لم يولد
+deepspeech/train/178.wav,91856,و لم يكن له كفوا أحد
+deepspeech/train/179.wav,143640,قل هو الله أحد
+deepspeech/train/180.wav,110744,الله الصمد
+deepspeech/train/181.wav,115232,لم يلد و لم يولد
+deepspeech/train/182.wav,176662,و لم يكن له كفوا أحد
+deepspeech/train/183.wav,72850,قل هو الله أحد
+deepspeech/train/184.wav,59398,الله الصمد
+deepspeech/train/185.wav,83662,لم يلد و لم يولد
+deepspeech/train/186.wav,111728,و لم يكن له كفوا أحد
+deepspeech/train/187.wav,442352,قل هو الله احد الله الصمد لم يلد و لم يولد
+deepspeech/train/188.wav,389558,لم يلد و لم يولد و لم يكن له كفوا أحد
+deepspeech/train/189.wav,116146,قل هو الله أحد
+deepspeech/train/190.wav,103740,الله الصمد
+deepspeech/train/191.wav,91836,لم يلد و لم يولد
+deepspeech/train/192.wav,150936,و لم يكن له كفوا أحد
+deepspeech/train/193.wav,72568,قل هو الله أحد
+deepspeech/train/194.wav,62324,الله الصمد
+deepspeech/train/195.wav,79444,لم يلد و لم يولد
+deepspeech/train/196.wav,115532,و لم يكن له كفوا أحد
+deepspeech/train/197.wav,100814,قل هو الله أحد
+deepspeech/train/198.wav,84994,الله الصمد
+deepspeech/train/199.wav,109900,لم يلد و لم يولد
+deepspeech/train/200.wav,146884,و لم يكن له كفوا أحد
+deepspeech/train/201.wav,76564,قل هو الله أحد
+deepspeech/train/202.wav,52804,الله الصمد
+deepspeech/train/203.wav,76542,لم يلد و لم يولد
+deepspeech/train/204.wav,103890,و لم يكن له كفوا أحد
+deepspeech/train/205.wav,101224,قل هو الله أحد
+deepspeech/train/206.wav,59772,الله الصمد
+deepspeech/train/207.wav,76068,لم يلد و لم يولد
+deepspeech/train/208.wav,108602,و لم يكن له كفوا أحد
+deepspeech/train/209.wav,65948,قل هو الله أحد
+deepspeech/train/210.wav,58298,الله الصمد
+deepspeech/train/211.wav,71190,لم يلد و لم يولد
+deepspeech/train/212.wav,105544,و لم يكن له كفوا أحد
+deepspeech/train/213.wav,64612,قل هو الله أحد
+deepspeech/train/214.wav,48330,الله الصمد
+deepspeech/train/215.wav,66162,لم يلد و لم يولد
+deepspeech/train/216.wav,107038,و لم يكن له كفوا أحد
+deepspeech/train/217.wav,105778,قل هو الله أحد
+deepspeech/train/218.wav,88956,الله الصمد
+deepspeech/train/219.wav,96376,لم يلد و لم يولد
+deepspeech/train/220.wav,143296,و لم يكن له كفوا أحد
+deepspeech/train/221.wav,92670,قل هو الله أحد
+deepspeech/train/222.wav,64588,الله الصمد
+deepspeech/train/223.wav,86242,لم يلد و لم يولد
+deepspeech/train/224.wav,121798,و لم يكن له كفوا أحد
+deepspeech/train/225.wav,143476,قل هو الله أحد
+deepspeech/train/226.wav,160488,الله الصمد
+deepspeech/train/227.wav,186420,لم يلد و لم يولد
+deepspeech/train/228.wav,256616,و لم يكن له كفوا أحد
+deepspeech/train/229.wav,69170,قل هو الله أحد
+deepspeech/train/230.wav,47590,الله الصمد
+deepspeech/train/231.wav,57562,لم يلد و لم يولد
+deepspeech/train/232.wav,103112,و لم يكن له كفوا أحد
+deepspeech/train/233.wav,50178,قل هو الله أحد
+deepspeech/train/234.wav,33558,الله الصمد
+deepspeech/train/235.wav,20692,لم يلد
+deepspeech/train/236.wav,32892,و لم يولد
+deepspeech/train/237.wav,74992,و لم يكن له كفوا أحد
+deepspeech/train/238.wav,80738,قل هو الله أحد
+deepspeech/train/239.wav,69820,الله الصمد
+deepspeech/train/240.wav,89326,لم يلد و لم يولد
+deepspeech/train/241.wav,128744,و لم يكن له كفوا أحد
+deepspeech/train/242.wav,91060,قل هو الله أحد
+deepspeech/train/243.wav,60684,الله الصمد
+deepspeech/train/244.wav,82178,لم يلد و لم يولد
+deepspeech/train/245.wav,118972,و لم يكن له كفوا أحد
+deepspeech/train/246.wav,76432,قل هو الله أحد
+deepspeech/train/247.wav,71364,الله الصمد
+deepspeech/train/248.wav,83748,لم يلد و لم يولد
+deepspeech/train/249.wav,135040,و لم يكن له كفوا أحد
+deepspeech/train/250.wav,75520,قل هو الله أحد
+deepspeech/train/251.wav,55432,الله الصمد
+deepspeech/train/252.wav,156254,لم يلد و لم يولد و لم يكن له كفوا أحد
+deepspeech/train/253.wav,58778,قل
+deepspeech/train/254.wav,53578,هو
+deepspeech/train/255.wav,69924,الله
+deepspeech/train/256.wav,58036,أحد
+deepspeech/train/257.wav,66208,الصمد
+deepspeech/train/258.wav,85528,الله الصمد
+deepspeech/train/259.wav,93702,قل هو الله أحد
+deepspeech/train/260.wav,43918,لم
+deepspeech/train/261.wav,63236,يلد
+deepspeech/train/262.wav,69924,و لم
+deepspeech/train/263.wav,82556,يولد
+deepspeech/train/264.wav,73640,لم يلد
+deepspeech/train/265.wav,84042,و لم يولد
+deepspeech/train/266.wav,119708,لم يلد و لم يولد
+deepspeech/train/267.wav,58778,يكن
+deepspeech/train/268.wav,46146,له
+deepspeech/train/269.wav,89986,كفوا
+deepspeech/train/270.wav,63980,و لم يكن
+deepspeech/train/271.wav,89986,و لم يكن له
+deepspeech/train/272.wav,83298,له كفوا
+deepspeech/train/273.wav,139770,و لم يكن له كفوا أحد
+deepspeech/train/274.wav,114506,له كفوا أحد
+deepspeech/train/275.wav,169934,قل أعوذ برب الناس
+deepspeech/train/276.wav,120782,ملك الناس
+deepspeech/train/277.wav,190414,من شر الوسواس الخناس
+deepspeech/train/278.wav,204750,الذي يوسوس في صدور الناس
+deepspeech/train/279.wav,180174,من الجنة و الناس
+deepspeech/train/280.wav,169934,قل أعوذ برب الناس
+deepspeech/train/281.wav,128974,ملك الناس
+deepspeech/train/282.wav,126926,إله الناس
+deepspeech/train/283.wav,204750,من شر الوسواس الخناس
+deepspeech/train/284.wav,208846,الذي يوسوس في صدور الناس
+deepspeech/train/285.wav,219086,من الجنة و الناس
+deepspeech/train/286.wav,251854,قل أعوذ برب الناس
+deepspeech/train/287.wav,153550,ملك الناس
+deepspeech/train/288.wav,171982,إله الناس
+deepspeech/train/289.wav,294862,من شر الوسواس الخناس
+deepspeech/train/290.wav,327630,الذي يوسوس في صدور الناس
+deepspeech/train/291.wav,272334,من الجنة و الناس
+deepspeech/train/292.wav,198606,قل أعوذ برب الناس
+deepspeech/train/293.wav,143310,ملك الناس
+deepspeech/train/294.wav,174030,إله الناس
+deepspeech/train/295.wav,255950,من شر الوسواس الخناس
+deepspeech/train/296.wav,278478,الذي يوسوس في صدور الناس
+deepspeech/train/297.wav,241614,من الجنة و الناس
+deepspeech/train/298.wav,149454,قل أعوذ برب الناس
+deepspeech/train/299.wav,102350,ملك الناس
+deepspeech/train/300.wav,92110,إله الناس
+deepspeech/train/301.wav,192462,من شر الوسواس الخناس
+deepspeech/train/302.wav,204750,الذي يوسوس في صدور الناس
+deepspeech/train/303.wav,153550,من الجنة و الناس
+deepspeech/train/304.wav,143310,قل أعوذ برب الناس
+deepspeech/train/305.wav,96206,ملك الناس
+deepspeech/train/306.wav,98254,إله الناس
+deepspeech/train/307.wav,178126,من شر الوسواس الخناس
+deepspeech/train/308.wav,190414,الذي يوسوس في صدور الناس
+deepspeech/train/309.wav,237646,قل أعوذ برب الناس
+deepspeech/train/310.wav,79584,ملك الناس
+deepspeech/train/311.wav,112278,إله الناس
+deepspeech/train/312.wav,228934,من شر الوسواس الخناس
+deepspeech/train/313.wav,184352,الذي يوسوس في صدور الناس
+deepspeech/train/314.wav,161318,من الجنة و الناس
+deepspeech/train/315.wav,163546,قل أعوذ برب الناس
+deepspeech/train/316.wav,98382,ملك الناس
+deepspeech/train/317.wav,133880,إله الناس
+deepspeech/train/318.wav,66208,شر الوسواس الخناس
+deepspeech/train/319.wav,173950,الذي يوسوس في صدور الناس
+deepspeech/train/320.wav,171720,من الجنة و الناس
+deepspeech/train/321.wav,329244,قل أعوذ برب الناس
+deepspeech/train/322.wav,94444,ملك الناس
+deepspeech/train/323.wav,115250,إله الناس
+deepspeech/train/324.wav,179150,من شر الوسواس الخناس
+deepspeech/train/325.wav,318098,الذي يوسوس في صدور الناس
+deepspeech/train/326.wav,203670,من الجنة و الناس
+deepspeech/train/327.wav,139342,قل أعوذ برب الناس
+deepspeech/train/328.wav,196240,ملك الناس
+deepspeech/train/329.wav,83298,إله الناس
+deepspeech/train/330.wav,251968,من شر الوسواس الخناس
+deepspeech/train/331.wav,141256,الذي يوسوس في صدور الناس
+deepspeech/train/332.wav,166648,من الجنة و الناس
+deepspeech/train/333.wav,107076,قل أعوذ برب الناس
+deepspeech/train/334.wav,67694,ملك الناس
+deepspeech/train/335.wav,130110,إله الناس
+deepspeech/train/336.wav,186582,من شر الوسواس الخناس
+deepspeech/train/337.wav,218532,من الجنة و الناس
+deepspeech/train/338.wav,167262,قل أعوذ برب الناس
+deepspeech/train/339.wav,92920,ملك الناس
+deepspeech/train/340.wav,73640,إله الناس
+deepspeech/train/341.wav,183032,من شر الوسواس الخناس
+deepspeech/train/342.wav,98160,من الجنة و الناس
+deepspeech/train/343.wav,165776,قل أعوذ برب الناس
+deepspeech/train/344.wav,133880,ملك الناس
+deepspeech/train/345.wav,306210,من شر الوسواس الخناس
+deepspeech/train/346.wav,258656,قل أعوذ برب الناس
+deepspeech/train/347.wav,130110,ملك الناس
+deepspeech/train/348.wav,101132,من شر الوسواس الخناس
+deepspeech/train/349.wav,179150,من شر الوسواس الخناس
+deepspeech/train/350.wav,139342,من شر الوسواس الخناس
+deepspeech/train/351.wav,270414,من شر الوسواس الخناس
+deepspeech/train/352.wav,170978,من شر الوسواس الخناس
+deepspeech/train/353.wav,142072,من شر الوسواس الخناس
+deepspeech/train/354.wav,131022,قل أعوذ برب الفلق
+deepspeech/train/355.wav,122830,من شر ما خلق
+deepspeech/train/356.wav,163790,و من شر غاسق إذا وقب
+deepspeech/train/357.wav,188366,و من شر النفاثات في العقد
+deepspeech/train/358.wav,171982,و من شر حاسد إذا حسد
+deepspeech/train/359.wav,114638,من شر ما خلق
+deepspeech/train/360.wav,165838,و من شر غاسق إذا وقب
+deepspeech/train/361.wav,190414,و من شر النفاثات في العقد
+deepspeech/train/362.wav,178126,و من شر حاسد إذا حسد
+deepspeech/train/363.wav,98254,قل أعوذ برب الفلق
+deepspeech/train/364.wav,83918,من شر ما خلق
+deepspeech/train/365.wav,124878,و من شر غاسق إذا وقب
+deepspeech/train/366.wav,157646,و من شر النفاثات في العقد
+deepspeech/train/367.wav,131022,و من شر حاسد إذا حسد
+deepspeech/train/368.wav,112590,قل أعوذ برب الفلق
+deepspeech/train/369.wav,106446,من شر ما خلق
+deepspeech/train/370.wav,159694,و من شر غاسق إذا وقب
+deepspeech/train/371.wav,184270,و من شر النفاثات في العقد
+deepspeech/train/372.wav,169934,و من شر حاسد إذا حسد
+deepspeech/train/373.wav,208846,قل أعوذ برب الفلق
+deepspeech/train/374.wav,176078,من شر ما خلق
+deepspeech/train/375.wav,239566,و من شر غاسق إذا وقب
+deepspeech/train/376.wav,278478,و من شر النفاثات في العقد
+deepspeech/train/377.wav,131022,قل أعوذ برب الفلق
+deepspeech/train/378.wav,110542,من شر ما خلق
+deepspeech/train/379.wav,165838,و من شر غاسق إذا وقب
+deepspeech/train/380.wav,190414,و من شر النفاثات في العقد
+deepspeech/train/381.wav,184270,و من شر حاسد إذا حسد
+deepspeech/train/382.wav,118734,قل أعوذ برب الفلق
+deepspeech/train/383.wav,118734,من شر ما خلق
+deepspeech/train/384.wav,163790,و من شر غاسق إذا وقب
+deepspeech/train/385.wav,202702,و من شر النفاثات في العقد
+deepspeech/train/386.wav,184270,و من شر حاسد إذا حسد
+deepspeech/train/387.wav,133070,قل أعوذ برب الفلق
+deepspeech/train/388.wav,118734,من شر ما خلق
+deepspeech/train/389.wav,167886,و من شر غاسق إذا وقب
+deepspeech/train/390.wav,204750,و من شر النفاثات في العقد
+deepspeech/train/391.wav,165838,و من شر حاسد إذا حسد
+deepspeech/train/392.wav,126926,قل أعوذ برب الفلق
+deepspeech/train/393.wav,92110,من شر ما خلق
+deepspeech/train/394.wav,141262,و من شر غاسق إذا وقب
+deepspeech/train/395.wav,163790,و من شر النفاثات في العقد
+deepspeech/train/396.wav,143310,و من شر حاسد إذا حسد
+deepspeech/train/397.wav,98254,قل أعوذ برب الفلق
+deepspeech/train/398.wav,98254,من شر ما خلق
+deepspeech/train/399.wav,139214,و من شر غاسق إذا وقب
+deepspeech/train/400.wav,167886,و من شر النفاثات في العقد
+deepspeech/train/401.wav,143310,و من شر حاسد إذا حسد
+deepspeech/train/402.wav,115250,قل أعوذ برب الفلق
+deepspeech/train/403.wav,58778,من شر ما خلق
+deepspeech/train/404.wav,177572,و من شر النفاثات في العقد
+deepspeech/train/405.wav,210358,و من شر حاسد إذا حسد
+deepspeech/train/406.wav,177572,قل أعوذ برب الفلق
+deepspeech/train/407.wav,86270,من شر ما خلق
+deepspeech/train/408.wav,309182,و من شر غاسق إذا وقب
+deepspeech/train/409.wav,165032,و من شر النفاثات في العقد
+deepspeech/train/410.wav,185838,و من شر حاسد إذا حسد
+deepspeech/train/411.wav,203670,قل أعوذ برب الفلق
+deepspeech/train/412.wav,68344,من شر ما خلق
+deepspeech/train/413.wav,160574,و من شر غاسق إذا وقب
+deepspeech/train/414.wav,163546,و من شر النفاثات في العقد
+deepspeech/train/415.wav,121936,و من شر حاسد إذا حسد
+deepspeech/train/416.wav,137540,قل أعوذ برب الفلق
+deepspeech/train/417.wav,114766,من شر ما خلق
+deepspeech/train/418.wav,205156,و من شر النفاثات في العقد
+deepspeech/train/419.wav,226706,و من شر حاسد إذا حسد
+deepspeech/train/420.wav,147534,قل أعوذ برب الفلق
+deepspeech/train/421.wav,82556,من شر ما خلق
+deepspeech/train/422.wav,228192,و من شر غاسق إذا وقب
+deepspeech/train/423.wav,353764,و من شر النفاثات في العقد
+deepspeech/train/424.wav,92958,و من شر حاسد إذا حسد
+deepspeech/train/425.wav,113020,قل أعوذ برب الفلق
+deepspeech/train/426.wav,107076,من شر ما خلق
+deepspeech/train/427.wav,142742,و من شر غاسق إذا وقب
+deepspeech/train/428.wav,166648,و من شر النفاثات في العقد
+deepspeech/train/429.wav,84042,و من شر حاسد إذا حسد
+deepspeech/train/430.wav,127138,قل أعوذ برب الفلق
+deepspeech/train/431.wav,193956,و من شر غاسق إذا وقب
+deepspeech/train/432.wav,174840,و من شر النفاثات في العقد
+deepspeech/train/433.wav,139026,قل أعوذ برب الفلق
+deepspeech/train/434.wav,205900,و من شر النفاثات في العقد
+deepspeech/train/435.wav,184270,تبت يدا أبي لهب و تب
+deepspeech/train/436.wav,198606,ما أغنى عنه ماله و ما كسب
+deepspeech/train/437.wav,159694,سيصلى نار ذات لهب
+deepspeech/train/438.wav,159694,و امرأته حمالة الحطب
+deepspeech/train/439.wav,180174,في جيديها حبل من مسد
+deepspeech/train/440.wav,237518,تبت يدا أبي لهب و تب
+deepspeech/train/441.wav,237518,ما أغنى عنه ماله و ما كسب
+deepspeech/train/442.wav,206798,سيصلى نار ذات لهب
+deepspeech/train/443.wav,212942,و امرأته حمالة الحطب
+deepspeech/train/444.wav,245710,في جيديها حبل من مسد
+deepspeech/train/445.wav,247758,تبت يدا أبي لهب و تب
+deepspeech/train/446.wav,260046,ما أغنى عنه ماله و ما كسب
+deepspeech/train/447.wav,151502,سيصلى نار ذات لهب
+deepspeech/train/448.wav,163790,و امرأته حمالة الحطب
+deepspeech/train/449.wav,200654,في جيديها حبل من مسد
+deepspeech/train/450.wav,264142,تبت يدا أبي لهب و تب
+deepspeech/train/451.wav,319438,ما أغنى عنه ماله و ما كسب
+deepspeech/train/452.wav,253902,و امرأته حمالة الحطب
+deepspeech/train/453.wav,253902,في جيديها حبل من مسد
+deepspeech/train/454.wav,176078,تبت يدا أبي لهب و تب
+deepspeech/train/455.wav,178126,ما أغنى عنه ماله و ما كسب
+deepspeech/train/456.wav,155598,سيصلى نار ذات لهب
+deepspeech/train/457.wav,159694,و امرأته حمالة الحطب
+deepspeech/train/458.wav,184270,في جيديها حبل من مسد
+deepspeech/train/459.wav,219086,ما أغنى عنه ماله و ما كسب
+deepspeech/train/460.wav,157646,سيصلى نار ذات لهب
+deepspeech/train/461.wav,174030,و امرأته حمالة الحطب
+deepspeech/train/462.wav,221134,في جيديها حبل من مسد
+deepspeech/train/463.wav,196558,تبت يدا أبي لهب و تب
+deepspeech/train/464.wav,178126,ما أغنى عنه ماله و ما كسب
+deepspeech/train/465.wav,204750,سيصلى نار ذات لهب
+deepspeech/train/466.wav,112590,حمالة الحطب
+deepspeech/train/467.wav,186318,في جيديها حبل من مسد
+deepspeech/train/468.wav,180174,تبت يدا أبي لهب و تب
+deepspeech/train/469.wav,165838,ما أغنى عنه ماله و ما كسب
+deepspeech/train/470.wav,110542,سيصلى نار ذات لهب
+deepspeech/train/471.wav,131022,و امرأته حمالة الحطب
+deepspeech/train/472.wav,178126,في جيديها حبل من مسد
+deepspeech/train/473.wav,149454,تبت يدا أبي لهب و تب
+deepspeech/train/474.wav,143310,ما أغنى عنه ماله و ما كسب
+deepspeech/train/475.wav,120782,سيصلى نار ذات لهب
+deepspeech/train/476.wav,118734,و امرأته حمالة الحطب
+deepspeech/train/477.wav,225230,تبت يدا أبي لهب و تب
+deepspeech/train/478.wav,196558,ما أغنى عنه ماله و ما كسب
+deepspeech/train/479.wav,147406,سيصلى نار ذات لهب
+deepspeech/train/480.wav,157646,و امرأته حمالة الحطب
+deepspeech/train/481.wav,167886,في جيديها حبل من مسد
+deepspeech/train/482.wav,146456,تبت يدا أبي لهب و تب
+deepspeech/train/483.wav,239336,ما أغنى عنه ماله و ما كسب
+deepspeech/train/484.wav,205900,سيصلى نار ذات لهب
+deepspeech/train/485.wav,94444,و امرأته حمالة الحطب
+deepspeech/train/486.wav,92216,في جيديها حبل من مسد
+deepspeech/train/487.wav,195498,تبت يدا أبي لهب و تب
+deepspeech/train/488.wav,161188,سيصلى نار ذات لهب
+deepspeech/train/489.wav,150264,و امرأته حمالة الحطب
+deepspeech/train/490.wav,200698,في جيديها حبل من مسد
+deepspeech/train/491.wav,210358,تبت يدا أبي لهب و تب
+deepspeech/train/492.wav,115250,ما أغنى عنه ماله و ما كسب
+deepspeech/train/493.wav,128624,سيصلى نار ذات لهب
+deepspeech/train/494.wav,170978,و امرأته حمالة الحطب
+deepspeech/train/495.wav,240376,في جيديها حبل من مسد
+deepspeech/train/496.wav,312154,تبت يدا أبي لهب و تب
+deepspeech/train/497.wav,251300,ما أغنى عنه ماله و ما كسب
+deepspeech/train/498.wav,234878,و امرأته حمالة الحطب
+deepspeech/train/499.wav,256760,في جيديها حبل من مسد
+deepspeech/train/500.wav,159832,تبت يدا أبي لهب و تب
+deepspeech/train/501.wav,162804,ما أغنى عنه ماله و ما كسب
+deepspeech/train/502.wav,210340,و امرأته حمالة الحطب
+deepspeech/train/503.wav,170978,في جيديها حبل من مسد
+deepspeech/train/504.wav,264952,تبت يدا أبي لهب و تب
+deepspeech/train/505.wav,170978,في جيديها حبل من مسد
+deepspeech/train/506.wav,179894,تبت يدا أبي لهب و تب
+deepspeech/train/507.wav,158346,في جيديها حبل من مسد
+deepspeech/train/508.wav,81812,تبت يدا أبي لهب و تب
+deepspeech/train/509.wav,142072,في جيديها حبل من مسد
+deepspeech/train/510.wav,321070,في جيديها حبل من مسد
+deepspeech/train/511.wav,196558,إذا جاء نصر الله و الفتح
+deepspeech/train/512.wav,253902,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/513.wav,301006,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/514.wav,171982,إذا جاء نصر الله و الفتح
+deepspeech/train/515.wav,253902,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/516.wav,305102,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/517.wav,149454,إذا جاء نصر الله و الفتح
+deepspeech/train/518.wav,198606,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/519.wav,243662,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/520.wav,202702,إذا جاء نصر الله و الفتح
+deepspeech/train/521.wav,249806,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/522.wav,147406,فسبح بحمد ربك و استغفره
+deepspeech/train/523.wav,233422,إذا جاء نصر الله و الفتح
+deepspeech/train/524.wav,335822,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/525.wav,221134,فسبح بحمد ربك و استغفره
+deepspeech/train/526.wav,280526,إذا جاء نصر الله و الفتح
+deepspeech/train/527.wav,409550,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/528.wav,264142,فسبح بحمد ربك و استغفره
+deepspeech/train/529.wav,315342,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/530.wav,354254,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/531.wav,196558,إذا جاء نصر الله و الفتح
+deepspeech/train/532.wav,272334,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/533.wav,323534,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/534.wav,214990,إذا جاء نصر الله و الفتح
+deepspeech/train/535.wav,296910,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/536.wav,180174,فسبح بحمد ربك و استغفره
+deepspeech/train/537.wav,198606,إذا جاء نصر الله و الفتح
+deepspeech/train/538.wav,241614,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/539.wav,286670,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/540.wav,112036,إذا جاء نصر الله و الفتح
+deepspeech/train/541.wav,169492,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/542.wav,186582,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/543.wav,264600,إذا جاء نصر الله و الفتح
+deepspeech/train/544.wav,215560,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/545.wav,426062,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/546.wav,259492,إذا جاء نصر الله و الفتح
+deepspeech/train/547.wav,297294,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/548.wav,205156,إذا جاء نصر الله و الفتح
+deepspeech/train/549.wav,169380,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/550.wav,144228,بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/551.wav,232184,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/552.wav,247510,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/553.wav,142742,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/554.wav,269058,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/555.wav,256426,و رأيت الناس يدخلون في دين الله أفواجا
+deepspeech/train/556.wav,346334,فسبح بحمد ربك و استغفره إنه كان توابا
+deepspeech/train/557.wav,165838,قل يا أيها الكافرون
+deepspeech/train/558.wav,141262,لا أعبد ما تعبدون
+deepspeech/train/559.wav,251854,و لا أنتم عابدون ما أعبد
+deepspeech/train/560.wav,198606,و لا أنا عابد ما عبدتم
+deepspeech/train/561.wav,231374,و لا أنتم عابدون ما أعبد
+deepspeech/train/562.wav,118734,لكم دينكم و لي دين
+deepspeech/train/563.wav,141262,قل يا أيها الكافرون
+deepspeech/train/564.wav,143310,لا أعبد ما تعبدون
+deepspeech/train/565.wav,206798,و لا أنتم عابدون ما أعبد
+deepspeech/train/566.wav,161742,و لا أنا عابد ما عبدتم
+deepspeech/train/567.wav,198606,و لا أنتم عابدون ما أعبد
+deepspeech/train/568.wav,198606,و لا أنتم عابدون ما أعبد
+deepspeech/train/569.wav,145358,قل يا أيها الكافرون
+deepspeech/train/570.wav,122830,لا أعبد ما تعبدون
+deepspeech/train/571.wav,171982,و لا أنتم عابدون ما أعبد
+deepspeech/train/572.wav,137166,و لا أنا عابد ما عبدتم
+deepspeech/train/573.wav,165838,و لا أنتم عابدون ما أعبد
+deepspeech/train/574.wav,120782,لكم دينكم و لي دين
+deepspeech/train/575.wav,184270,قل يا أيها الكافرون
+deepspeech/train/576.wav,151502,لا أعبد ما تعبدون
+deepspeech/train/577.wav,137166,و لا أنا عابد ما عبدتم
+deepspeech/train/578.wav,204750,و لا أنتم عابدون ما أعبد
+deepspeech/train/579.wav,120782,لكم دينكم و لي دين
+deepspeech/train/580.wav,221134,قل يا أيها الكافرون
+deepspeech/train/581.wav,196558,لا أعبد ما تعبدون
+deepspeech/train/582.wav,294862,و لا أنتم عابدون ما أعبد
+deepspeech/train/583.wav,206798,و لا أنا عابد ما عبدتم
+deepspeech/train/584.wav,309198,و لا أنتم عابدون ما أعبد
+deepspeech/train/585.wav,180174,لكم دينكم و لي دين
+deepspeech/train/586.wav,253902,قل يا أيها الكافرون
+deepspeech/train/587.wav,251854,لا أعبد ما تعبدون
+deepspeech/train/588.wav,329678,و لا أنتم عابدون ما أعبد
+deepspeech/train/589.wav,268238,و لا أنا عابد ما عبدتم
+deepspeech/train/590.wav,341966,و لا أنتم عابدون ما أعبد
+deepspeech/train/591.wav,210894,لكم دينكم و لي دين
+deepspeech/train/592.wav,159694,قل يا أيها الكافرون
+deepspeech/train/593.wav,145358,لا أعبد ما تعبدون
+deepspeech/train/594.wav,204750,و لا أنتم عابدون ما أعبد
+deepspeech/train/595.wav,174030,و لا أنا عابد ما عبدتم
+deepspeech/train/596.wav,192462,و لا أنتم عابدون ما أعبد
+deepspeech/train/597.wav,245710,لا أعبد ما تعبدون
+deepspeech/train/598.wav,278478,و لا أنتم عابدون ما أعبد
+deepspeech/train/599.wav,243662,و لا أنا عابد ما عبدتم
+deepspeech/train/600.wav,290766,و لا أنتم عابدون ما أعبد
+deepspeech/train/601.wav,217038,لكم دينكم و لي دين
+deepspeech/train/602.wav,206798,قل يا أيها الكافرون
+deepspeech/train/603.wav,192462,لا أعبد ما تعبدون
+deepspeech/train/604.wav,284622,و لا أنتم عابدون ما أعبد
+deepspeech/train/605.wav,217038,و لا أنا عابد ما عبدتم
+deepspeech/train/606.wav,264142,و لا أنتم عابدون ما أعبد
+deepspeech/train/607.wav,139214,لكم دينكم و لي دين
+deepspeech/train/608.wav,220018,قل يا أيها الكافرون
+deepspeech/train/609.wav,73640,لا أعبد ما تعبدون
+deepspeech/train/610.wav,201442,و لا أنتم عابدون ما أعبد
+deepspeech/train/611.wav,157602,و لا أنا عابد ما عبدتم
+deepspeech/train/612.wav,239336,و لا أنتم عابدون ما أعبد
+deepspeech/train/613.wav,156860,لكم دينكم و لي دين
+deepspeech/train/614.wav,182122,قل يا أيها الكافرون
+deepspeech/train/615.wav,127138,لا أعبد ما تعبدون
+deepspeech/train/616.wav,248254,و لا أنتم عابدون ما أعبد
+deepspeech/train/617.wav,191782,و لا أنا عابد ما عبدتم
+deepspeech/train/618.wav,284068,لكم دينكم و لي دين
+deepspeech/train/619.wav,240376,قل يا أيها الكافرون
+deepspeech/train/620.wav,305912,و لا أنتم عابدون ما أعبد
+deepspeech/train/621.wav,84042,و لا أنا عابد ما عبدتم
+deepspeech/train/622.wav,188068,و لا أنتم عابدون ما أعبد
+deepspeech/train/623.wav,109306,لكم دينكم و لي دين
+deepspeech/train/624.wav,221504,قل يا أيها الكافرون
+deepspeech/train/625.wav,251300,لا أعبد ما تعبدون
+deepspeech/train/626.wav,301752,و لا أنتم عابدون ما أعبد
+deepspeech/train/627.wav,314104,و لا أنتم عابدون ما أعبد
+deepspeech/train/628.wav,214074,لكم دينكم و لي دين
+deepspeech/train/629.wav,161318,قل يا أيها الكافرون
+deepspeech/train/630.wav,181380,لا أعبد ما تعبدون
+deepspeech/train/631.wav,240822,و لا أنتم عابدون ما أعبد
+deepspeech/train/632.wav,237108,و لا أنتم عابدون ما أعبد
+deepspeech/train/633.wav,182122,لكم دينكم و لي دين
+deepspeech/train/634.wav,172464,لا أعبد ما تعبدون
+deepspeech/train/635.wav,228192,و لا أنتم عابدون ما أعبد
+deepspeech/train/636.wav,297294,و لا أنتم عابدون ما أعبد
+deepspeech/train/637.wav,237108,لا أعبد ما تعبدون
+deepspeech/train/638.wav,251968,و لا أنتم عابدون ما أعبد
+deepspeech/train/639.wav,164290,لا أعبد ما تعبدون
+deepspeech/train/640.wav,180174,إنا أعطيناك الكوثر
+deepspeech/train/641.wav,110542,فصلي لربك و انحر
+deepspeech/train/642.wav,137166,إن شانئك هو الأبتر
+deepspeech/train/643.wav,171982,إنا أعطيناك الكوثر
+deepspeech/train/644.wav,108494,فصلي لربك و انحر
+deepspeech/train/645.wav,153550,إن شانئك هو الأبتر
+deepspeech/train/646.wav,149454,إنا أعطيناك الكوثر
+deepspeech/train/647.wav,88014,فصلي لربك و انحر
+deepspeech/train/648.wav,210894,إنا أعطيناك الكوثر
+deepspeech/train/649.wav,104398,فصلي لربك و انحر
+deepspeech/train/650.wav,161742,إن شانئك هو الأبتر
+deepspeech/train/651.wav,288718,إنا أعطيناك الكوثر
+deepspeech/train/652.wav,126926,فصلي لربك و انحر
+deepspeech/train/653.wav,192462,إن شانئك هو الأبتر
+deepspeech/train/654.wav,268238,إنا أعطيناك الكوثر
+deepspeech/train/655.wav,182222,فصلي لربك و انحر
+deepspeech/train/656.wav,237518,إن شانئك هو الأبتر
+deepspeech/train/657.wav,186318,إنا أعطيناك الكوثر
+deepspeech/train/658.wav,139214,فصلي لربك و انحر
+deepspeech/train/659.wav,159694,إن شانئك هو الأبتر
+deepspeech/train/660.wav,212942,إنا أعطيناك الكوثر
+deepspeech/train/661.wav,122830,فصلي لربك و انحر
+deepspeech/train/662.wav,155598,إن شانئك هو الأبتر
+deepspeech/train/663.wav,214990,إنا أعطيناك الكوثر
+deepspeech/train/664.wav,128974,فصلي لربك و انحر
+deepspeech/train/665.wav,159694,إن شانئك هو الأبتر
+deepspeech/train/666.wav,76536,إنا أعطيناك الكوثر
+deepspeech/train/667.wav,58036,فصلي لربك و انحر
+deepspeech/train/668.wav,143484,إن شانئك هو الأبتر
+deepspeech/train/669.wav,133082,فصلي لربك و انحر
+deepspeech/train/670.wav,132340,إن شانئك هو الأبتر
+deepspeech/train/671.wav,264952,إنا أعطيناك الكوثر
+deepspeech/train/672.wav,102618,فصلي لربك و انحر
+deepspeech/train/673.wav,240822,إن شانئك هو الأبتر
+deepspeech/train/674.wav,200698,إنا أعطيناك الكوثر
+deepspeech/train/675.wav,99646,فصلي لربك و انحر
+deepspeech/train/676.wav,131150,إن شانئك هو الأبتر
+deepspeech/train/677.wav,300266,إنا أعطيناك الكوثر
+deepspeech/train/678.wav,156860,إن شانئك هو الأبتر
+deepspeech/train/679.wav,157646,أرأيت الذي يكذب بالدين
+deepspeech/train/680.wav,153550,فذلك الذي يدع اليتيم
+deepspeech/train/681.wav,171982,و لا يحض على طعام المسكين
+deepspeech/train/682.wav,131022,فويل للمصلين
+deepspeech/train/683.wav,208846,الذين هم عن صلاتهم ساهون
+deepspeech/train/684.wav,292814,الذين هم يراؤن و يمنعون الماعون
+deepspeech/train/685.wav,157646,أرأيت الذي يكذب بالدين
+deepspeech/train/686.wav,149454,فذلك الذي يدع اليتيم
+deepspeech/train/687.wav,165838,و لا يحض على طعام المسكين
+deepspeech/train/688.wav,270286,فويل للمصلين الذين هم عن صلاتهم ساهون
+deepspeech/train/689.wav,153550,الذين هم يراؤن
+deepspeech/train/690.wav,145358,و يمنعون الماعون
+deepspeech/train/691.wav,122830,أرأيت الذي يكذب بالدين
+deepspeech/train/692.wav,118734,فذلك الذي يدع اليتيم
+deepspeech/train/693.wav,217038,فويل للمصلين الذين هم عن صلاتهم ساهون
+deepspeech/train/694.wav,223182,الذين هم يراؤن و يمنعون الماعون
+deepspeech/train/695.wav,128974,أرأيت الذي يكذب بالدين
+deepspeech/train/696.wav,128974,فذلك الذي يدع اليتيم
+deepspeech/train/697.wav,135118,و لا يحض على طعام المسكين
+deepspeech/train/698.wav,221134,فويل للمصلين الذين هم عن صلاتهم ساهون
+deepspeech/train/699.wav,202702,الذين هم يراؤن و يمنعون الماعون
+deepspeech/train/700.wav,186318,أرأيت الذي يكذب بالدين
+deepspeech/train/701.wav,174030,فذلك الذي يدع اليتيم
+deepspeech/train/702.wav,186318,و لا يحض على طعام المسكين
+deepspeech/train/703.wav,147406,فويل للمصلين
+deepspeech/train/704.wav,214990,الذين هم عن صلاتهم ساهون
+deepspeech/train/705.wav,190414,الذين هم يراؤن
+deepspeech/train/706.wav,141262,و يمنعون الماعون
+deepspeech/train/707.wav,223182,فذلك الذي يدع اليتيم
+deepspeech/train/708.wav,235470,و لا يحض على طعام المسكين
+deepspeech/train/709.wav,376782,فويل للمصلين الذين هم عن صلاتهم ساهون
+deepspeech/train/710.wav,374734,الذين هم يراؤن و يمنعون الماعون
+deepspeech/train/711.wav,260046,أرأيت الذي يكذب بالدين
+deepspeech/train/712.wav,253902,فذلك الذي يدع اليتيم
+deepspeech/train/713.wav,282574,و لا يحض على طعام المسكين
+deepspeech/train/714.wav,200654,فويل للمصلين
+deepspeech/train/715.wav,307150,الذين هم عن صلاتهم ساهون
+deepspeech/train/716.wav,440270,الذين هم يراؤن و يمنعون الماعون
+deepspeech/train/717.wav,192462,أرأيت الذي يكذب بالدين
+deepspeech/train/718.wav,167886,فذلك الذي يدع اليتيم
+deepspeech/train/719.wav,184270,و لا يحض على طعام المسكين
+deepspeech/train/720.wav,124878,فويل للمصلين
+deepspeech/train/721.wav,288718,فويل للمصلين الذين هم عن صلاتهم ساهون
+deepspeech/train/722.wav,174030,الذين هم يراؤن
+deepspeech/train/723.wav,149454,و يمنعون الماعون
+deepspeech/train/724.wav,210894,أرأيت الذي يكذب بالدين
+deepspeech/train/725.wav,241614,فذلك الذي يدع اليتيم
+deepspeech/train/726.wav,214990,و لا يحض على طعام المسكين
+deepspeech/train/727.wav,167886,فويل للمصلين
+deepspeech/train/728.wav,231374,الذين هم عن صلاتهم ساهون
+deepspeech/train/729.wav,247758,الذين هم يراؤن
+deepspeech/train/730.wav,180174,أرأيت الذي يكذب بالدين
+deepspeech/train/731.wav,174030,فذلك الذي يدع اليتيم
+deepspeech/train/732.wav,182222,و لا يحض على طعام المسكين
+deepspeech/train/733.wav,212942,الذين هم عن صلاتهم ساهون
+deepspeech/train/734.wav,174030,الذين هم يراؤن
+deepspeech/train/735.wav,131022,و يمنعون الماعون
+deepspeech/train/736.wav,176178,أرأيت الذي يكذب بالدين
+deepspeech/train/737.wav,148686,فذلك الذي يدع اليتيم
+deepspeech/train/738.wav,163546,و لا يحض على طعام المسكين
+deepspeech/train/739.wav,111534,فويل للمصلين
+deepspeech/train/740.wav,101132,الذين هم عن صلاتهم ساهون
+deepspeech/train/741.wav,183608,الذين هم يراؤن
+deepspeech/train/742.wav,128624,و يمنعون الماعون
+deepspeech/train/743.wav,199416,أرأيت الذي يكذب بالدين
+deepspeech/train/744.wav,267572,و لا يحض على طعام المسكين
+deepspeech/train/745.wav,144970,فويل للمصلين
+deepspeech/train/746.wav,223732,الذين هم عن صلاتهم ساهون
+deepspeech/train/747.wav,106332,الذين هم يراؤن
+deepspeech/train/748.wav,58778,و يمنعون الماعون
+deepspeech/train/749.wav,113764,أرأيت الذي يكذب بالدين
+deepspeech/train/750.wav,259492,و لا يحض على طعام المسكين
+deepspeech/train/751.wav,114506,فويل للمصلين
+deepspeech/train/752.wav,65466,الذين هم عن صلاتهم ساهون
+deepspeech/train/753.wav,60264,الذين هم يراؤن
+deepspeech/train/754.wav,273516,الذين هم عن صلاتهم ساهون
+deepspeech/train/755.wav,270414,الذين هم عن صلاتهم ساهون
+deepspeech/train/756.wav,116686,لإيلاف قريش
+deepspeech/train/757.wav,223182,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/758.wav,163790,فليعبدوا رب هذا البيت
+deepspeech/train/759.wav,337870,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/760.wav,108494,لإيلاف قريش
+deepspeech/train/761.wav,194510,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/762.wav,206798,الذي أطعمهم من جوع
+deepspeech/train/763.wav,94158,لإيلاف قريش
+deepspeech/train/764.wav,167886,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/765.wav,110542,فليعبدوا رب هذا البيت
+deepspeech/train/766.wav,268238,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/767.wav,116686,لإيلاف قريش
+deepspeech/train/768.wav,237518,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/769.wav,161742,فليعبدوا رب هذا البيت
+deepspeech/train/770.wav,411598,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/771.wav,143310,لإيلاف قريش
+deepspeech/train/772.wav,284622,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/773.wav,229326,فليعبدوا رب هذا البيت
+deepspeech/train/774.wav,452558,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/775.wav,171982,لإيلاف قريش
+deepspeech/train/776.wav,339918,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/777.wav,255950,فليعبدوا رب هذا البيت
+deepspeech/train/778.wav,479182,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/779.wav,120782,لإيلاف قريش
+deepspeech/train/780.wav,165838,فليعبدوا رب هذا البيت
+deepspeech/train/781.wav,346062,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/782.wav,149454,لإيلاف قريش
+deepspeech/train/783.wav,264142,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/784.wav,206798,فليعبدوا رب هذا البيت
+deepspeech/train/785.wav,505806,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/786.wav,116686,لإيلاف قريش
+deepspeech/train/787.wav,249806,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/788.wav,178126,فليعبدوا رب هذا البيت
+deepspeech/train/789.wav,374734,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/790.wav,274382,لإيلاف قريش إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/791.wav,128974,فليعبدوا رب هذا البيت
+deepspeech/train/792.wav,325582,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/793.wav,231906,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/794.wav,180302,فليعبدوا رب هذا البيت
+deepspeech/train/795.wav,309182,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/796.wav,113020,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/797.wav,163546,فليعبدوا رب هذا البيت
+deepspeech/train/798.wav,425096,الذي أطعمهم من جوع و آمنهم من خوف
+deepspeech/train/799.wav,270544,إيلافهم رحلة الشتاء و الصيف
+deepspeech/train/800.wav,78840,فليعبدوا رب هذا البيت
+deepspeech/train/801.wav,175436,فليعبدوا رب هذا البيت
+deepspeech/train/802.wav,208130,فليعبدوا رب هذا البيت
+deepspeech/train/803.wav,206798,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/804.wav,157646,ألم يجعل كيدهم في تضليل
+deepspeech/train/805.wav,165838,و أرسل عليهم طيرا أبابيل
+deepspeech/train/806.wav,237518,ترميهم بحجارة من سجيل
+deepspeech/train/807.wav,167886,فجعلهم كعصف مأكول
+deepspeech/train/808.wav,544718,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/809.wav,401358,ألم يجعل كيدهم في تضليل
+deepspeech/train/810.wav,366542,و أرسل عليهم طيرا أبابيل
+deepspeech/train/811.wav,440270,ترميهم بحجارة من سجيل
+deepspeech/train/812.wav,368590,فجعلهم كعصف مأكول
+deepspeech/train/813.wav,178126,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/814.wav,124878,ألم يجعل كيدهم في تضليل
+deepspeech/train/815.wav,143310,و أرسل عليهم طيرا أبابيل
+deepspeech/train/816.wav,257998,ترميهم بحجارة من سجيل
+deepspeech/train/817.wav,221134,فجعلهم كعصف مأكول
+deepspeech/train/818.wav,169934,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/819.wav,131022,ألم يجعل كيدهم في تضليل
+deepspeech/train/820.wav,128974,و أرسل عليهم طيرا أبابيل
+deepspeech/train/821.wav,182222,ترميهم بحجارة من سجيل
+deepspeech/train/822.wav,159694,فجعلهم كعصف مأكول
+deepspeech/train/823.wav,221134,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/824.wav,169934,ألم يجعل كيدهم في تضليل
+deepspeech/train/825.wav,176078,و أرسل عليهم طيرا أبابيل
+deepspeech/train/826.wav,255950,ترميهم بحجارة من سجيل
+deepspeech/train/827.wav,194510,فجعلهم كعصف مأكول
+deepspeech/train/828.wav,243662,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/829.wav,217038,ألم يجعل كيدهم في تضليل
+deepspeech/train/830.wav,204750,و أرسل عليهم طيرا أبابيل
+deepspeech/train/831.wav,266190,ترميهم بحجارة من سجيل
+deepspeech/train/832.wav,257998,فجعلهم كعصف مأكول
+deepspeech/train/833.wav,278478,ألم يجعل كيدهم في تضليل
+deepspeech/train/834.wav,286670,و أرسل عليهم طيرا أبابيل
+deepspeech/train/835.wav,309198,ترميهم بحجارة من سجيل
+deepspeech/train/836.wav,255950,فجعلهم كعصف مأكول
+deepspeech/train/837.wav,262094,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/838.wav,182222,ألم يجعل كيدهم في تضليل
+deepspeech/train/839.wav,188366,و أرسل عليهم طيرا أبابيل
+deepspeech/train/840.wav,237518,ترميهم بحجارة من سجيل
+deepspeech/train/841.wav,257998,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/842.wav,225230,ألم يجعل كيدهم في تضليل
+deepspeech/train/843.wav,217038,و أرسل عليهم طيرا أبابيل
+deepspeech/train/844.wav,323534,ترميهم بحجارة من سجيل
+deepspeech/train/845.wav,280526,فجعلهم كعصف مأكول
+deepspeech/train/846.wav,243662,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/847.wav,192462,ألم يجعل كيدهم في تضليل
+deepspeech/train/848.wav,186318,و أرسل عليهم طيرا أبابيل
+deepspeech/train/849.wav,247758,ترميهم بحجارة من سجيل
+deepspeech/train/850.wav,163790,فجعلهم كعصف مأكول
+deepspeech/train/851.wav,243794,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/852.wav,84042,ألم يجعل كيدهم في تضليل
+deepspeech/train/853.wav,164290,و أرسل عليهم طيرا أبابيل
+deepspeech/train/854.wav,209616,ترميهم بحجارة من سجيل
+deepspeech/train/855.wav,187324,فجعلهم كعصف مأكول
+deepspeech/train/856.wav,142072,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/857.wav,62494,و أرسل عليهم طيرا أبابيل
+deepspeech/train/858.wav,116736,ترميهم بحجارة من سجيل
+deepspeech/train/859.wav,80326,فجعلهم كعصف مأكول
+deepspeech/train/860.wav,136054,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/861.wav,87014,و أرسل عليهم طيرا أبابيل
+deepspeech/train/862.wav,237850,ترميهم بحجارة من سجيل
+deepspeech/train/863.wav,114506,فجعلهم كعصف مأكول
+deepspeech/train/864.wav,294322,ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/865.wav,122958,و أرسل عليهم طيرا أبابيل
+deepspeech/train/866.wav,535066,ألم تر كيف فعل ربك بأصحاب الفيل ألم تر كيف فعل ربك بأصحاب الفيل
+deepspeech/train/867.wav,191040,و أرسل عليهم طيرا أبابيل
+deepspeech/train/868.wav,153550,ويل لكل همزة لمزه
+deepspeech/train/869.wav,163790,الذي جمع مالا و عدده
+deepspeech/train/870.wav,182222,يحسب أن ماله أخلده
+deepspeech/train/871.wav,212942,كلا لينبذن في الحطمه
+deepspeech/train/872.wav,157646,و ما أدراك ما الحطمه
+deepspeech/train/873.wav,124878,نار الله الموقده
+deepspeech/train/874.wav,157646,التي تطلع على الأفئده
+deepspeech/train/875.wav,165838,إنها عليهم مؤصده
+deepspeech/train/876.wav,118734,في عمد ممدده
+deepspeech/train/877.wav,139214,ويل لكل همزة لمزه
+deepspeech/train/878.wav,145358,الذي جمع مالا و عدده
+deepspeech/train/879.wav,169934,يحسب أن ماله أخلده
+deepspeech/train/880.wav,161742,كلا لينبذن في الحطمه
+deepspeech/train/881.wav,155598,و ما أدراك ما الحطمه
+deepspeech/train/882.wav,104398,نار الله الموقده
+deepspeech/train/883.wav,145358,التي تطلع على الأفئده
+deepspeech/train/884.wav,141262,إنها عليهم مؤصده
+deepspeech/train/885.wav,118734,في عمد ممدده
+deepspeech/train/886.wav,104398,ويل لكل همزة لمزه
+deepspeech/train/887.wav,118734,الذي جمع مالا و عدده
+deepspeech/train/888.wav,135118,يحسب أن ماله أخلده
+deepspeech/train/889.wav,128974,كلا لينبذن في الحطمه
+deepspeech/train/890.wav,98254,و ما أدراك ما الحطمه
+deepspeech/train/891.wav,77774,نار الله الموقده
+deepspeech/train/892.wav,106446,التي تطلع على الأفئده
+deepspeech/train/893.wav,116686,إنها عليهم مؤصده
+deepspeech/train/894.wav,98254,في عمد ممدده
+deepspeech/train/895.wav,135118,ويل لكل همزة لمزه
+deepspeech/train/896.wav,167886,الذي جمع مالا و عدده
+deepspeech/train/897.wav,188366,كلا لينبذن في الحطمه
+deepspeech/train/898.wav,169934,و ما أدراك ما الحطمه
+deepspeech/train/899.wav,118734,نار الله الموقده
+deepspeech/train/900.wav,149454,التي تطلع على الأفئده
+deepspeech/train/901.wav,176078,إنها عليهم مؤصده
+deepspeech/train/902.wav,182222,في عمد ممدده
+deepspeech/train/903.wav,157646,ويل لكل همزة لمزه
+deepspeech/train/904.wav,176078,الذي جمع مالا و عدده
+deepspeech/train/905.wav,237518,يحسب أن ماله أخلده
+deepspeech/train/906.wav,247758,كلا لينبذن في الحطمه
+deepspeech/train/907.wav,235470,و ما أدراك ما الحطمه
+deepspeech/train/908.wav,128974,نار الله الموقده
+deepspeech/train/909.wav,157646,التي تطلع على الأفئده
+deepspeech/train/910.wav,214990,إنها عليهم مؤصده
+deepspeech/train/911.wav,157646,في عمد ممدده
+deepspeech/train/912.wav,253902,الذي جمع مالا و عدده
+deepspeech/train/913.wav,274382,يحسب أن ماله أخلده
+deepspeech/train/914.wav,264142,كلا لينبذن في الحطمه
+deepspeech/train/915.wav,233422,و ما أدراك ما الحطمه
+deepspeech/train/916.wav,202702,نار الله الموقده
+deepspeech/train/917.wav,243662,التي تطلع على الأفئده
+deepspeech/train/918.wav,235470,إنها عليهم مؤصده
+deepspeech/train/919.wav,184270,في عمد ممدده
+deepspeech/train/920.wav,174030,ويل لكل همزة لمزه
+deepspeech/train/921.wav,192462,الذي جمع مالا و عدده
+deepspeech/train/922.wav,200654,يحسب أن ماله أخلده
+deepspeech/train/923.wav,233422,كلا لينبذن في الحطمه
+deepspeech/train/924.wav,157646,و ما أدراك ما الحطمه
+deepspeech/train/925.wav,141262,نار الله الموقده
+deepspeech/train/926.wav,186318,التي تطلع على الأفئده
+deepspeech/train/927.wav,180174,إنها عليهم مؤصده
+deepspeech/train/928.wav,163790,في عمد ممدده
+deepspeech/train/929.wav,149454,ويل لكل همزة لمزه
+deepspeech/train/930.wav,171982,الذي جمع مالا و عدده
+deepspeech/train/931.wav,212942,يحسب أن ماله أخلده
+deepspeech/train/932.wav,200654,كلا لينبذن في الحطمه
+deepspeech/train/933.wav,167886,و ما أدراك ما الحطمه
+deepspeech/train/934.wav,122830,نار الله الموقده
+deepspeech/train/935.wav,165838,التي تطلع على الأفئده
+deepspeech/train/936.wav,190414,إنها عليهم مؤصده
+deepspeech/train/937.wav,169934,في عمد ممدده
+deepspeech/train/938.wav,169934,ويل لكل همزة لمزه
+deepspeech/train/939.wav,190414,الذي جمع مالا و عدده
+deepspeech/train/940.wav,208846,يحسب أن ماله أخلده
+deepspeech/train/941.wav,219086,كلا لينبذن في الحطمه
+deepspeech/train/942.wav,178126,و ما أدراك ما الحطمه
+deepspeech/train/943.wav,141262,نار الله الموقده
+deepspeech/train/944.wav,178126,التي تطلع على الأفئده
+deepspeech/train/945.wav,180174,إنها عليهم مؤصده
+deepspeech/train/946.wav,135118,في عمد ممدده
+deepspeech/train/947.wav,106446,ويل لكل همزة لمزه
+deepspeech/train/948.wav,141262,الذي جمع مالا و عدده
+deepspeech/train/949.wav,178126,يحسب أن ماله أخلده
+deepspeech/train/950.wav,174030,كلا لينبذن في الحطمه
+deepspeech/train/951.wav,171982,و ما أدراك ما الحطمه
+deepspeech/train/952.wav,98254,نار الله الموقده
+deepspeech/train/953.wav,122830,التي تطلع على الأفئده
+deepspeech/train/954.wav,131022,إنها عليهم مؤصده
+deepspeech/train/955.wav,118734,في عمد ممدده
+deepspeech/train/956.wav,81070,ويل لكل همزة لمزه
+deepspeech/train/957.wav,161188,الذي جمع مالا و عدده
+deepspeech/train/958.wav,193268,يحسب أن ماله أخلده
+deepspeech/train/959.wav,172110,كلا لينبذن في الحطمه
+deepspeech/train/960.wav,196240,و ما أدراك ما الحطمه
+deepspeech/train/961.wav,136612,نار الله الموقده
+deepspeech/train/962.wav,136798,التي تطلع على الأفئده
+deepspeech/train/963.wav,134568,إنها عليهم مؤصده
+deepspeech/train/964.wav,136798,في عمد ممدده
+deepspeech/train/965.wav,151658,ويل لكل همزة لمزه
+deepspeech/train/966.wav,146456,يحسب أن ماله أخلده
+deepspeech/train/967.wav,205156,كلا لينبذن في الحطمه
+deepspeech/train/968.wav,136054,و ما أدراك ما الحطمه
+deepspeech/train/969.wav,84784,نار الله الموقده
+deepspeech/train/970.wav,139026,التي تطلع على الأفئده
+deepspeech/train/971.wav,137540,إنها عليهم مؤصده
+deepspeech/train/972.wav,115250,ويل لكل همزة لمزه
+deepspeech/train/973.wav,91472,الذي جمع مالا و عدده
+deepspeech/train/974.wav,53578,يحسب أن ماله أخلده
+deepspeech/train/975.wav,324044,كلا لينبذن في الحطمه
+deepspeech/train/976.wav,166648,و ما أدراك ما الحطمه
+deepspeech/train/977.wav,152996,التي تطلع على الأفئده
+deepspeech/train/978.wav,178408,في عمد ممدده
+deepspeech/train/979.wav,208130,الذي جمع مالا و عدده
+deepspeech/train/980.wav,92216,يحسب أن ماله أخلده
+deepspeech/train/981.wav,145714,كلا لينبذن في الحطمه
+deepspeech/train/982.wav,157602,و ما أدراك ما الحطمه
+deepspeech/train/983.wav,151658,إنها عليهم مؤصده
+deepspeech/train/984.wav,92958,في عمد ممدده
+deepspeech/train/985.wav,172464,يحسب أن ماله أخلده
+deepspeech/train/986.wav,207386,كلا لينبذن في الحطمه
+deepspeech/train/987.wav,166518,يحسب أن ماله أخلده
+deepspeech/train/988.wav,67534,و العصر
+deepspeech/train/989.wav,165838,إن الإنسان لفي خسر
+deepspeech/train/990.wav,341966,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/991.wav,206798,و العصر إن الإنسان لفي خسر
+deepspeech/train/992.wav,231374,إلا الذين آمنوا و عملوا الصالحات و تواصوا
+deepspeech/train/993.wav,176078,و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/994.wav,61390,و العصر
+deepspeech/train/995.wav,176078,إن الإنسان لفي خسر
+deepspeech/train/996.wav,317390,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/997.wav,61390,و العصر
+deepspeech/train/998.wav,210894,إن الإنسان لفي خسر
+deepspeech/train/999.wav,237518,إلا الذين آمنوا و عملوا الصالحات
+deepspeech/train/1000.wav,182222,و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/1001.wav,98254,و العصر
+deepspeech/train/1002.wav,237518,إن الإنسان لفي خسر
+deepspeech/train/1003.wav,561102,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/1004.wav,122830,و العصر
+deepspeech/train/1005.wav,344014,إن الإنسان لفي خسر
+deepspeech/train/1006.wav,83918,و العصر
+deepspeech/train/1007.wav,186318,إن الإنسان لفي خسر
+deepspeech/train/1008.wav,425934,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/1009.wav,63438,و العصر
+deepspeech/train/1010.wav,196558,إن الإنسان لفي خسر
+deepspeech/train/1011.wav,356302,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/1012.wav,65486,و العصر
+deepspeech/train/1013.wav,176078,إن الإنسان لفي خسر
+deepspeech/train/1014.wav,425934,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/1015.wav,139214,و العصر إن الإنسان لفي خسر
+deepspeech/train/1016.wav,163790,إلا الذين آمنوا و عملوا الصالحات
+deepspeech/train/1017.wav,153550,و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/1018.wav,144804,إن الإنسان لفي خسر
+deepspeech/train/1019.wav,286892,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/1020.wav,106332,و العصر
+deepspeech/train/1021.wav,95930,إن الإنسان لفي خسر
+deepspeech/train/1022.wav,159088,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/1023.wav,356736,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/train/1024.wav,104398,ألهاكم التكاثر
+deepspeech/train/1025.wav,128974,حتى زرتم المقابر
+deepspeech/train/1026.wav,126926,كلا سوف تعلمون
+deepspeech/train/1027.wav,174030,ثم كلا سوف تعلمون
+deepspeech/train/1028.wav,163790,كلا لو تعلمون علم اليقين
+deepspeech/train/1029.wav,122830,لترون الجحيم
+deepspeech/train/1030.wav,192462,ثم لترونها عين اليقين
+deepspeech/train/1031.wav,251854,ثم لتسألن يومئذ عن النعيم
+deepspeech/train/1032.wav,196558,ألهاكم التكاثر حتى زرتم المقابر
+deepspeech/train/1033.wav,227278,كلا سوف تعلمون ثم كلا سوف تعلمون
+deepspeech/train/1034.wav,155598,كلا لو تعلمون علم اليقين
+deepspeech/train/1035.wav,114638,لترون الجحيم
+deepspeech/train/1036.wav,190414,ثم لترونها عين اليقين
+deepspeech/train/1037.wav,270286,ثم لتسألن يومئذ عن النعيم
+deepspeech/train/1038.wav,75726,ألهاكم التكاثر
+deepspeech/train/1039.wav,90062,حتى زرتم المقابر
+deepspeech/train/1040.wav,96206,كلا سوف تعلمون
+deepspeech/train/1041.wav,122830,ثم كلا سوف تعلمون
+deepspeech/train/1042.wav,135118,كلا لو تعلمون علم اليقين
+deepspeech/train/1043.wav,90062,لترون الجحيم
+deepspeech/train/1044.wav,149454,ثم لترونها عين اليقين
+deepspeech/train/1045.wav,212942,ثم لتسألن يومئذ عن النعيم
+deepspeech/train/1046.wav,116686,ألهاكم التكاثر
+deepspeech/train/1047.wav,122830,حتى زرتم المقابر
+deepspeech/train/1048.wav,145358,كلا سوف تعلمون
+deepspeech/train/1049.wav,204750,ثم كلا سوف تعلمون
+deepspeech/train/1050.wav,176078,كلا لو تعلمون علم اليقين
+deepspeech/train/1051.wav,165838,لترون الجحيم
+deepspeech/train/1052.wav,239566,ثم لترونها عين اليقين
+deepspeech/train/1053.wav,303054,ثم لتسألن يومئذ عن النعيم
+deepspeech/train/1054.wav,176078,ألهاكم التكاثر
+deepspeech/train/1055.wav,178126,حتى زرتم المقابر
+deepspeech/train/1056.wav,204750,كلا سوف تعلمون
+deepspeech/train/1057.wav,237518,ثم كلا سوف تعلمون
+deepspeech/train/1058.wav,270286,كلا لو تعلمون علم اليقين
+deepspeech/train/1059.wav,208846,لترون الجحيم
+deepspeech/train/1060.wav,296910,ثم لترونها عين اليقين
+deepspeech/train/1061.wav,368590,ثم لتسألن يومئذ عن النعيم
+deepspeech/train/1062.wav,190414,ألهاكم التكاثر
+deepspeech/train/1063.wav,192462,حتى زرتم المقابر
+deepspeech/train/1064.wav,194510,كلا سوف تعلمون
+deepspeech/train/1065.wav,268238,ثم كلا سوف تعلمون
+deepspeech/train/1066.wav,305102,كلا لو تعلمون علم اليقين
+deepspeech/train/1067.wav,202702,لترون الجحيم
+deepspeech/train/1068.wav,290766,ثم لترونها عين اليقين
+deepspeech/train/1069.wav,389070,ثم لتسألن يومئذ عن النعيم
+deepspeech/train/1070.wav,145358,حتى زرتم المقابر
+deepspeech/train/1071.wav,163790,كلا سوف تعلمون
+deepspeech/train/1072.wav,210894,ثم كلا سوف تعلمون
