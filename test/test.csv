@@ -1,135 +1,71 @@
 wav_filename,wav_filesize,transcript
-deepspeech/train/1073.wav,229326,كلا لو تعلمون علم اليقين
-deepspeech/train/1074.wav,147406,لترون الجحيم
-deepspeech/train/1075.wav,212942,ثم لترونها عين اليقين
-deepspeech/train/1076.wav,262094,ثم لتسألن يومئذ عن النعيم
-deepspeech/train/1077.wav,116686,ألهاكم التكاثر
-deepspeech/train/1078.wav,126926,حتى زرتم المقابر
-deepspeech/train/1079.wav,225230,ثم كلا سوف تعلمون
-deepspeech/train/1080.wav,217038,كلا لو تعلمون علم اليقين
-deepspeech/train/1081.wav,196558,لترون الجحيم
-deepspeech/train/1082.wav,272334,ثم لترونها عين اليقين
-deepspeech/train/1083.wav,352206,ثم لتسألن يومئذ عن النعيم
-deepspeech/train/1084.wav,120782,ألهاكم التكاثر
-deepspeech/train/1085.wav,143310,حتى زرتم المقابر
-deepspeech/train/1086.wav,131022,كلا سوف تعلمون
-deepspeech/train/1087.wav,180174,ثم كلا سوف تعلمون
-deepspeech/train/1088.wav,194510,كلا لو تعلمون علم اليقين
-deepspeech/train/1089.wav,128974,لترون الجحيم
-deepspeech/train/1090.wav,227278,ثم لترونها عين اليقين
-deepspeech/train/1091.wav,270286,ثم لتسألن يومئذ عن النعيم
-deepspeech/train/1092.wav,66208,ألهاكم التكاثر
-deepspeech/train/1093.wav,118222,حتى زرتم المقابر
-deepspeech/train/1094.wav,144970,كلا سوف تعلمون
-deepspeech/train/1095.wav,104104,ثم كلا سوف تعلمون
-deepspeech/train/1096.wav,63980,كلا لو تعلمون علم اليقين
-deepspeech/train/1097.wav,214816,لترون الجحيم ثم لترونها
-deepspeech/train/1098.wav,183032,ثم لترونها عين اليقين
-deepspeech/train/1099.wav,83298,لتسألن يومئذ عن النعيم
-deepspeech/train/1100.wav,115250,ألهاكم التكاثر
-deepspeech/train/1101.wav,128624,زرتم المقابر
-deepspeech/train/1102.wav,58778,كلا سوف تعلمون
-deepspeech/train/1103.wav,43174,كلا سوف تعلمون
-deepspeech/train/1104.wav,133826,كلا لو تعلمون علم اليقين
-deepspeech/train/1105.wav,129368,لترون الجحيم
-deepspeech/train/1106.wav,129368,ثم لترونها عين اليقين
-deepspeech/train/1107.wav,120450,ثم لتسألن يومئذ عن النعيم
-deepspeech/train/1108.wav,133082,ألهاكم التكاثر
-deepspeech/train/1109.wav,89242,حتى زرتم المقابر
-deepspeech/train/1110.wav,101874,كلا سوف تعلمون
-deepspeech/train/1111.wav,136054,ثم كلا سوف تعلمون
-deepspeech/train/1112.wav,139026,كلا لو تعلمون علم اليقين
-deepspeech/train/1113.wav,89242,لترون الجحيم
-deepspeech/train/1114.wav,109304,كلا سوف تعلمون
-deepspeech/train/1115.wav,115250,كلا سوف تعلمون
-deepspeech/train/1116.wav,116686,و العاديات ضبحا
-deepspeech/train/1117.wav,114638,فالموريات قدحا
-deepspeech/train/1118.wav,114638,فالمغيرات صبحا
-deepspeech/train/1119.wav,118734,فأثرن به نقعا
-deepspeech/train/1120.wav,122830,فوسطن به جمعا
-deepspeech/train/1121.wav,219086,إن الإنسان لربه لكنود
-deepspeech/train/1122.wav,180174,و إنه على ذلك لشهيد
-deepspeech/train/1123.wav,174030,و إنه لحب الخير لشديد
-deepspeech/train/1124.wav,188366,أفلا يعلم إذا بعثر ما في القبور
-deepspeech/train/1125.wav,114638,و حصل ما في الصدور
-deepspeech/train/1126.wav,88014,و العاديات ضبحا
-deepspeech/train/1127.wav,83918,فالموريات قدحا
-deepspeech/train/1128.wav,83918,فالمغيرات صبحا
-deepspeech/train/1129.wav,94158,فأثرن به نقعا
-deepspeech/train/1130.wav,92110,فوسطن به جمعا
-deepspeech/train/1131.wav,192462,إن الإنسان لربه لكنود
-deepspeech/train/1132.wav,163790,و إنه على ذلك لشهيد
-deepspeech/train/1133.wav,219086,و إنه لحب الخير لشديد
-deepspeech/train/1134.wav,251854,أفلا يعلم إذا بعثر ما في القبور
-deepspeech/train/1135.wav,163790,و حصل ما في الصدور
-deepspeech/train/1136.wav,325582,إن ربهم بهم يومئذ لخبير
-deepspeech/train/1137.wav,294862,و العاديات ضبحا فالموريات قدحا فالمغيرات صبحا
-deepspeech/train/1138.wav,196558,فأثرن به نقعا فوسطن به جمعا
-deepspeech/train/1139.wav,202702,إن الإنسان لربه لكنود
-deepspeech/train/1140.wav,176078,و إنه على ذلك لشهيد
-deepspeech/train/1141.wav,192462,و إنه لحب الخير لشديد
-deepspeech/train/1142.wav,196558,أفلا يعلم إذا بعثر ما في القبور
-deepspeech/train/1143.wav,143310,و حصل ما في الصدور
-deepspeech/train/1144.wav,247758,إن ربهم بهم يومئذ لخبير
-deepspeech/train/1145.wav,120782,و العاديات ضبحا
-deepspeech/train/1146.wav,116686,فالموريات قدحا
-deepspeech/train/1147.wav,124878,فالمغيرات صبحا
-deepspeech/train/1148.wav,126926,فأثرن به نقعا
-deepspeech/train/1149.wav,116686,فوسطن به جمعا
-deepspeech/train/1150.wav,229326,إن الإنسان لربه لكنود
-deepspeech/train/1151.wav,202702,و إنه على ذلك لشهيد
-deepspeech/train/1152.wav,221134,و إنه لحب الخير لشديد
-deepspeech/train/1153.wav,214990,أفلا يعلم إذا بعثر ما في القبور
-deepspeech/train/1154.wav,151502,و حصل ما في الصدور
-deepspeech/train/1155.wav,270286,إن ربهم بهم يومئذ لخبير
-deepspeech/train/1156.wav,120782,و العاديات ضبحا
-deepspeech/train/1157.wav,120782,فالموريات قدحا
-deepspeech/train/1158.wav,118734,فالمغيرات صبحا
-deepspeech/train/1159.wav,116686,فأثرن به نقعا
-deepspeech/train/1160.wav,112590,فوسطن به جمعا
-deepspeech/train/1161.wav,253902,إن الإنسان لربه لكنود
-deepspeech/train/1162.wav,202702,و إنه على ذلك لشهيد
-deepspeech/train/1163.wav,227278,و إنه لحب الخير لشديد
-deepspeech/train/1164.wav,219086,أفلا يعلم إذا بعثر ما في القبور
-deepspeech/train/1165.wav,194510,و حصل ما في الصدور
-deepspeech/train/1166.wav,344014,إن ربهم بهم يومئذ لخبير
-deepspeech/train/1167.wav,182222,و العاديات ضبحا
-deepspeech/train/1168.wav,184270,فالموريات قدحا
-deepspeech/train/1169.wav,182222,فالمغيرات صبحا
-deepspeech/train/1170.wav,200654,فأثرن به نقعا
-deepspeech/train/1171.wav,212942,فوسطن به جمعا
-deepspeech/train/1172.wav,341966,إن الإنسان لربه لكنود
-deepspeech/train/1173.wav,274382,و إنه على ذلك لشهيد
-deepspeech/train/1174.wav,286670,و إنه لحب الخير لشديد
-deepspeech/train/1175.wav,305102,أفلا يعلم إذا بعثر ما في القبور
-deepspeech/train/1176.wav,227278,و حصل ما في الصدور
-deepspeech/train/1177.wav,411598,إن ربهم بهم يومئذ لخبير
-deepspeech/train/1178.wav,124878,فالموريات قدحا
-deepspeech/train/1179.wav,135118,فالمغيرات صبحا
-deepspeech/train/1180.wav,143310,فأثرن به نقعا
-deepspeech/train/1181.wav,145358,فوسطن به جمعا
-deepspeech/train/1182.wav,231374,إن الإنسان لربه لكنود
-deepspeech/train/1183.wav,182222,و إنه على ذلك لشهيد
-deepspeech/train/1184.wav,202702,و إنه لحب الخير لشديد
-deepspeech/train/1185.wav,233422,أفلا يعلم إذا بعثر ما في القبور
-deepspeech/train/1186.wav,135118,و حصل ما في الصدور
-deepspeech/train/1187.wav,239566,إن ربهم بهم يومئذ لخبير
-deepspeech/train/1188.wav,135118,و العاديات ضبحا
-deepspeech/train/1189.wav,126926,فالموريات قدحا
-deepspeech/train/1190.wav,126926,فالمغيرات صبحا
-deepspeech/train/1191.wav,137166,فأثرن به نقعا
-deepspeech/train/1192.wav,135118,فوسطن به جمعا
-deepspeech/train/1193.wav,290766,إن الإنسان لربه لكنود
-deepspeech/train/1194.wav,241614,و إنه على ذلك لشهيد
-deepspeech/train/1195.wav,235470,و إنه لحب الخير لشديد
-deepspeech/train/1196.wav,171982,و حصل ما في الصدور
-deepspeech/train/1197.wav,329678,إن ربهم بهم يومئذ لخبير
-deepspeech/train/1198.wav,149454,و العاديات ضبحا
-deepspeech/train/1199.wav,131022,فالموريات قدحا
-deepspeech/train/1200.wav,124878,فأثرن به نقعا
-deepspeech/train/1201.wav,139214,فوسطن به جمعا
-deepspeech/train/1202.wav,237518,إن الإنسان لربه لكنود
-deepspeech/train/1203.wav,208846,و إنه على ذلك لشهيد
-deepspeech/train/1204.wav,225230,و إنه لحب الخير لشديد
-deepspeech/train/1205.wav,239566,أفلا يعلم إذا بعثر ما في القبور
-deepspeech/train/1206.wav,155598,و حصل ما في الصدور
+deepspeech/test/1212.wav,157646,إن الإنسان لربه لكنود
+deepspeech/test/1213.wav,143310,و إنه على ذلك لشهيد
+deepspeech/test/1214.wav,153550,و إنه لحب الخير لشديد
+deepspeech/test/1215.wav,262094,أفلا يعلم إذا بعثر ما في القبور و حصل ما في الصدور
+deepspeech/test/1216.wav,233422,إن ربهم بهم يومئذ لخبير
+deepspeech/test/1222.wav,202148,و إنه على ذلك لشهيد
+deepspeech/test/1223.wav,181380,و إنه لحب الخير لشديد
+deepspeech/test/1224.wav,217046,أفلا يعلم إذا بعثر ما في القبور
+deepspeech/test/1225.wav,126394,و حصل ما في الصدور
+deepspeech/test/1226.wav,121194,و العاديات ضبحا
+deepspeech/test/1232.wav,220760,و إنه لحب الخير لشديد
+deepspeech/test/1233.wav,211844,أفلا يعلم إذا بعثر ما في القبور
+deepspeech/test/1234.wav,204878,إن ربهم بهم يومئذ لخبير
+deepspeech/test/1235.wav,139026,فالموريات قدحا
+deepspeech/test/1236.wav,172464,فالمغيرات صبحا
+deepspeech/test/1242.wav,127138,فالمغيرات صبحا
+deepspeech/test/1243.wav,121194,إنه لحب الخير لشديد
+deepspeech/test/1244.wav,248568,أفلا يعلم إذا بعثر ما في القبور
+deepspeech/test/1245.wav,243052,إن ربهم بهم يومئذ لخبير
+deepspeech/test/1246.wav,89986,فالمغيرات صبحا
+deepspeech/test/1255.wav,171982,من الجنة و الناس
+deepspeech/test/1256.wav,219086,إذا جاء نصر الله و الفتح
+deepspeech/test/1257.wav,151502,في جيديها حبل من مسد
+deepspeech/test/1258.wav,142072,و من شر غاسق إذا وقب
+deepspeech/test/1259.wav,332960,ما أغنى عنه ماله و ما كسب
+deepspeech/test/1260.wav,142742,الذي يوسوس في صدور الناس
+deepspeech/test/1261.wav,120450,إله الناس
+deepspeech/test/1265.wav,128420,لا أعبد ما تعبدون
+deepspeech/test/1266.wav,217038,و لا أنتم عابدون ما أعبد
+deepspeech/test/1267.wav,137166,لكم دينكم و لي دين
+deepspeech/test/1268.wav,228192,إنا أعطيناك الكوثر
+deepspeech/test/1269.wav,153550,إن شانئك هو الأبتر
+deepspeech/test/1270.wav,141262,و لا يحض على طعام المسكين
+deepspeech/test/1271.wav,225230,أرأيت الذي يكذب بالدين
+deepspeech/test/1274.wav,82556,فذلك الذي يدع اليتيم
+deepspeech/test/1275.wav,157646,فليعبدوا رب هذا البيت
+deepspeech/test/1276.wav,241614,إيلافهم رحلة الشتاء و الصيف
+deepspeech/test/1281.wav,180174,فجعلهم كعصف مأكول
+deepspeech/test/1282.wav,237108,ألم يجعل كيدهم في تضليل
+deepspeech/test/1283.wav,206798,يحسب أن ماله أخلده
+deepspeech/test/1284.wav,128624,الذي جمع مالا و عدده
+deepspeech/test/1285.wav,129368,في عمد ممدده
+deepspeech/test/1286.wav,152996,إنها عليهم مؤصده
+deepspeech/test/1287.wav,686030,إلا الذين آمنوا و عملوا الصالحات و تواصوا بالحق و تواصوا بالصبر
+deepspeech/test/1288.wav,139214,ألهاكم التكاثر
+deepspeech/test/1289.wav,73806,و العصر
+deepspeech/test/1292.wav,219086,إن ربهم بهم يومئذ لخبير
+deepspeech/test/1295.wav,131022,فالمغيرات صبحا
+deepspeech/test/1296.wav,218532,إن ربهم بهم يومئذ لخبير
+deepspeech/test/1297.wav,88454,قل هو الله أحد
+deepspeech/test/1298.wav,72850,الله الصمد
+deepspeech/test/1299.wav,37926,لم يلد
+deepspeech/test/1300.wav,120404,و لم يكن له كفوا أحد
+deepspeech/test/1301.wav,71364,قل هو الله أحد
+deepspeech/test/1307.wav,77774,لم يلد و لم يولد
+deepspeech/test/1308.wav,124878,و لم يكن له كفوا أحد
+deepspeech/test/1309.wav,67648,قل هو الله أحد
+deepspeech/test/1310.wav,59474,الله الصمد
+deepspeech/test/1311.wav,72106,لم يلد و لم يولد
+deepspeech/test/1317.wav,77308,قل هو الله أحد
+deepspeech/test/1318.wav,63190,الله الصمد
+deepspeech/test/1319.wav,75822,لم يلد و لم يولد
+deepspeech/test/1320.wav,108516,و لم يكن له كفوا أحد
+deepspeech/test/1321.wav,67648,قل هو الله أحد
+deepspeech/test/1327.wav,125606,و لم يكن له كفوا أحد
+deepspeech/test/1328.wav,77308,قل هو الله أحد
+deepspeech/test/1329.wav,56502,الله الصمد
+deepspeech/test/1330.wav,76564,لم يلد و لم يولد
+deepspeech/test/1331.wav,107030,و لم يكن له كفوا أحد
+deepspeech/test/1340.wav,56550,أحد
